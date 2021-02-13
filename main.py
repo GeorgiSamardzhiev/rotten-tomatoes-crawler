@@ -17,7 +17,7 @@ if __name__ == "__main__":
             print('Could not create folder')
 
     for year in years:
-        names = movie_title_scraper.scrape_movie_name_for_year(year)[:2]
+        names = movie_title_scraper.scrape_movie_name_for_year(year)
         for name in names:
             try:
                 info = movie_info_scraper.get_movie_info(name)
