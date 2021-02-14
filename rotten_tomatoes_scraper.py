@@ -2,6 +2,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 from requests import TooManyRedirects
+import time
 
 class RottenTomatoesMovieScrapper:
 
@@ -37,9 +38,10 @@ class RottenTomatoesMovieScrapper:
     def _get_rotten_tomatoes_page_from_movie_title(self, title, reviews = False):
         return f'{self.ROTTEN_TOMATOES_BASE_URL}m/{self.to_snake_case(title)}{"/reviews" if reviews else ""}' 
 
-    def _get_movie_html_page(self, movie_title):
+    def _get_movie_html_page(self, movie_title, crawl_wait = 1):
         movie_url = self._get_rotten_tomatoes_page_from_movie_title(movie_title)
         try:
+            time.sleep(crawl_wait)
             res = requests.get(movie_url)
             return res.text
         except TooManyRedirects:
