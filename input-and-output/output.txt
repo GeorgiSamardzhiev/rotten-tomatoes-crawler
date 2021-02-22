@@ -1,0 +1,240 @@
+recall score tdidf1_sgd:  0.56
+precision score tdidf1_sgd:  0.51
+f1 score tdidf1_sgd:  0.48
+
+
+recall score tdidf1_svc:  0.58
+precision score tdidf1_svc:  0.55
+f1 score tdidf1_svc:  0.56
+
+
+recall score tdidf1_logistic_regression:  0.6
+precision score tdidf1_logistic_regression:  0.57
+f1 score tdidf1_logistic_regression:  0.56
+
+
+recall score tdidf1_mnb:  0.55
+precision score tdidf1_mnb:  0.51
+f1 score tdidf1_mnb:  0.48
+
+
+recall score tdidf1_bnb:  0.55
+precision score tdidf1_bnb:  0.52
+f1 score tdidf1_bnb:  0.52
+
+
+recall score tdidf1_decision_tree:  0.51
+precision score tdidf1_decision_tree:  0.48
+f1 score tdidf1_decision_tree:  0.49
+
+
+recall score tdidf1_random_forest:  0.52
+precision score tdidf1_random_forest:  0.48
+f1 score tdidf1_random_forest:  0.39
+
+
+recall score tdidf2_sgd:  0.56
+precision score tdidf2_sgd:  0.51
+f1 score tdidf2_sgd:  0.49
+
+
+recall score tdidf2_svc:  0.56
+precision score tdidf2_svc:  0.54
+f1 score tdidf2_svc:  0.55
+
+
+recall score tdidf2_logistic_regression:  0.59
+precision score tdidf2_logistic_regression:  0.56
+f1 score tdidf2_logistic_regression:  0.56
+
+
+recall score tdidf2_mnb:  0.54
+precision score tdidf2_mnb:  0.48
+f1 score tdidf2_mnb:  0.45
+
+
+recall score tdidf2_bnb:  0.54
+precision score tdidf2_bnb:  0.49
+f1 score tdidf2_bnb:  0.48
+
+
+recall score tdidf2_decision_tree:  0.52
+precision score tdidf2_decision_tree:  0.48
+f1 score tdidf2_decision_tree:  0.49
+
+
+recall score tdidf2_random_forest:  0.53
+precision score tdidf2_random_forest:  0.51
+f1 score tdidf2_random_forest:  0.36
+
+
+recall score tdidf3_sgd:  0.55
+precision score tdidf3_sgd:  0.51
+f1 score tdidf3_sgd:  0.5
+
+
+recall score tdidf3_svc:  0.56
+precision score tdidf3_svc:  0.54
+f1 score tdidf3_svc:  0.54
+
+
+recall score tdidf3_logistic_regression:  0.58
+precision score tdidf3_logistic_regression:  0.56
+f1 score tdidf3_logistic_regression:  0.56
+
+
+recall score tdidf3_mnb:  0.52
+precision score tdidf3_mnb:  0.45
+f1 score tdidf3_mnb:  0.42
+
+
+recall score tdidf3_bnb:  0.52
+precision score tdidf3_bnb:  0.45
+f1 score tdidf3_bnb:  0.43
+
+
+recall score tdidf3_decision_tree:  0.52
+precision score tdidf3_decision_tree:  0.47
+f1 score tdidf3_decision_tree:  0.48
+
+
+recall score tdidf3_random_forest:  0.65
+precision score tdidf3_random_forest:  0.5
+f1 score tdidf3_random_forest:  0.44
+
+
+recall score cv1_sgd:  0.57
+precision score cv1_sgd:  0.53
+f1 score cv1_sgd:  0.52
+
+
+recall score cv1_svc:  0.57
+precision score cv1_svc:  0.53
+f1 score cv1_svc:  0.54
+
+
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+recall score cv1_logistic_regression:  0.59
+precision score cv1_logistic_regression:  0.56
+f1 score cv1_logistic_regression:  0.56
+
+
+recall score cv1_mnb:  0.56
+precision score cv1_mnb:  0.54
+f1 score cv1_mnb:  0.54
+
+
+recall score cv1_bnb:  0.55
+precision score cv1_bnb:  0.52
+f1 score cv1_bnb:  0.52
+
+
+recall score cv1_decision_tree:  0.51
+precision score cv1_decision_tree:  0.48
+f1 score cv1_decision_tree:  0.49
+
+
+recall score cv1_random_forest:  0.52
+precision score cv1_random_forest:  0.48
+f1 score cv1_random_forest:  0.39
+
+
+recall score cv2_sgd:  0.57
+precision score cv2_sgd:  0.53
+f1 score cv2_sgd:  0.52
+
+
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+recall score cv2_svc:  0.55
+precision score cv2_svc:  0.53
+f1 score cv2_svc:  0.54
+
+
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+recall score cv2_logistic_regression:  0.58
+precision score cv2_logistic_regression:  0.55
+f1 score cv2_logistic_regression:  0.55
+
+
+recall score cv2_mnb:  0.53
+precision score cv2_mnb:  0.5
+f1 score cv2_mnb:  0.51
+
+
+recall score cv2_bnb:  0.54
+precision score cv2_bnb:  0.49
+f1 score cv2_bnb:  0.48
+
+
+recall score cv2_decision_tree:  0.52
+precision score cv2_decision_tree:  0.48
+f1 score cv2_decision_tree:  0.5
+
+
+recall score cv2_random_forest:  0.53
+precision score cv2_random_forest:  0.42
+f1 score cv2_random_forest:  0.36
+
+
+recall score cv3_sgd:  0.57
+precision score cv3_sgd:  0.53
+f1 score cv3_sgd:  0.52
+
+
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+recall score cv3_svc:  0.56
+precision score cv3_svc:  0.53
+f1 score cv3_svc:  0.54
+
+
+P:\Anaconda3\envs\IR_NLP\lib\site-packages\sklearn\svm\_base.py:985: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn("Liblinear failed to converge, increase "
+recall score cv3_logistic_regression:  0.58
+precision score cv3_logistic_regression:  0.55
+f1 score cv3_logistic_regression:  0.55
+
+
+recall score cv3_mnb:  0.52
+precision score cv3_mnb:  0.49
+f1 score cv3_mnb:  0.5
+
+
+recall score cv3_bnb:  0.52
+precision score cv3_bnb:  0.45
+f1 score cv3_bnb:  0.43
+
+
+recall score cv3_decision_tree:  0.52
+precision score cv3_decision_tree:  0.48
+f1 score cv3_decision_tree:  0.5
+
+
+recall score cv3_random_forest:  0.65
+precision score cv3_random_forest:  0.49
+f1 score cv3_random_forest:  0.44
+
+
+somewhat positive
+neutral
+positive
+neutral
